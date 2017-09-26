@@ -1,5 +1,5 @@
-# SiemensEntry2017
-Siemens Competition Entry for the year of 2017
+# Competition Entry
+Competition Entry
 All code is in the programming language Mathematica. 
 Both image processing code and artificial intelligence code is included. 
 TestPics.nb includes all image processing code, from applying the Shen Castan edge detection algorithm to simply binarizing the images of the cancer cells. Most, if not all code in this file is test code, and is not used in the final results. 
